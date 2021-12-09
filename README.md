@@ -1,2 +1,0 @@
-# BearMaster
-Discord Bot
